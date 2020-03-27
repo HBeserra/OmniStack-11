@@ -8,7 +8,8 @@ O Be The Hero é o projeto da semana OmniStack 11.0 da Rocket Seat, com o objeti
 
 #### Tecnologias utilizadas
 - Node.js - Backend
-- React / React Native - Frontend & Mobile
+- React - Frontend web
+- React Native / Expo - Mobile
 - SQLite - Banco de dados 
 
 ## Releases
