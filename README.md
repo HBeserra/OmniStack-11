@@ -1,3 +1,4 @@
+
 ![enter image description here](https://github.com/HBeserra/OmniStack-11/raw/master/logo.png)
 
 # Semana OmniStack 11.0
@@ -31,6 +32,13 @@ Para executar esse repositório baixe-o para sua maquina ou de um `Git Clone`
 - abra a pasta `OmniStack-11/aulas/frontend/` na Shell (No windows Power Shell em modo administrador). 
 - `$ npm install` esse comando ira instalar todos os módulos necessários ao React
 -  `$ npm start` Ira iniciar o servidor Frontend na `localhost:3000\` 
+
+### Mobile 
+
+- abra a pasta `OmniStack-11/aulas/mobile/` na Shell (No windows Power Shell em modo administrador). 
+- `$ npm install` esse comando ira instalar todos os módulos necessários ao React Native
+-  `$ npm start` Ira iniciar o servidor  de desenvolvimento do Expo 
+
 
 > Written with [StackEdit](https://stackedit.io/).
 
